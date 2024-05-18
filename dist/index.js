@@ -1,0 +1,1 @@
+"use strict";(()=>{var e=document.querySelectorAll(".border-gradient");e.forEach(i=>{let{duration:n}=i.dataset;i.style.animation=`card_line-anim ${n} linear infinite, card_line-opacity-loop 3s linear infinite`});})();
